@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Learn React"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Get Placed"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Win"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "Enjoy"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "item": "Happy"
+    }
+  ]
+}
